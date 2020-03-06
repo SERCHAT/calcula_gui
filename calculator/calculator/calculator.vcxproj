@@ -121,11 +121,18 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Calcula.cpp" />
+    <ClCompile Include="Calculator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Calcula.h">
       <FileType>CppForm</FileType>
     </ClInclude>
+    <ClInclude Include="Calculator.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Calcula.resx">
+      <DependentUpon>Calcula.h</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
