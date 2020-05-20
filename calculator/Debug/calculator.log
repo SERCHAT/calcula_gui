@@ -1,0 +1,9 @@
+﻿  Calcula.cpp
+C:\Users\user\Desktop\calculator\calculator\Calcula.h(350,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\calculator\calculator\Calcula.h(350,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\calculator\calculator\Calcula.h(353,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\calculator\calculator\Calcula.h(353,12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\calculator\calculator\Calcula.h(354,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Desktop\calculator\calculator\Calcula.h(354,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Calcula.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  calculator.vcxproj -> C:\Users\user\Desktop\calculator\Debug\calculator.exe
