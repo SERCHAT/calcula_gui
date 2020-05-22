@@ -1,0 +1,3 @@
+C:\Users\serchat\Desktop\calcula_gui\calculator\calculator\Debug\calculator.vcxprojAssemblyReference.cache
+C:\Users\serchat\Desktop\calcula_gui\calculator\calculator\Debug\calculator.Calcula.resources
+C:\Users\serchat\Desktop\calcula_gui\calculator\calculator\Debug\calculator.vcxproj.GenerateResource.cache
